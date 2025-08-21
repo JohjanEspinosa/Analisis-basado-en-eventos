@@ -36,17 +36,17 @@ Este proyecto fue desarrollado para una empresa emergente del sector de alimento
 
 ## Conclusiones Clave
 
-* **Punto de Abandono:** [Menciona la etapa específica donde el embudo de ventas mostró la mayor caída de usuarios, ej. "La mayor pérdida de usuarios ocurre entre la visualización de la página principal y la adición de productos al carrito".]
-* **Tasa de Conversión:** [Indica el porcentaje de usuarios que completan el viaje del embudo, ej. "Solo el X% de los usuarios que inician el embudo completan el pago".]
-* **Resultados del Test A/A/B:** [Aquí viene la conclusión más importante. Ej. "El análisis demostró que no existe una diferencia estadísticamente significativa en el comportamiento de los usuarios entre el grupo de prueba y los grupos de control. Por lo tanto, el nuevo diseño de fuentes **no afectó negativamente la conversión** y puede ser implementado sin riesgo."].
+* **Punto de Abandono:** La mayor pérdida de usuarios ocurre entre la visualización de la página principal y la adición de productos al carrito.
+* **Tasa de Conversión:** Solo el X% de los usuarios que inician el embudo completan el pago.
+* **Resultados del Test A/A/B:** El análisis demostró que no existe una diferencia estadísticamente significativa en el comportamiento de los usuarios entre el grupo de prueba y los grupos de control. Por lo tanto, el nuevo diseño de fuentes **no afectó negativamente la conversión** y puede ser implementado sin riesgo.
 
 ## Cómo Ejecutar el Proyecto
 Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
-1.  Clona el repositorio: `git clone https://github.com/johjan-espinosa/tripleten-food-app-analysis.git`
+1.  Clona el repositorio: `git clone https://github.com/johjan-espinosa/analisis-basado-en-eventos.git`
 2.  Instala las librerías necesarias: `pip install pandas numpy matplotlib seaborn scipy`
 3.  Abre el notebook en Jupyter: `jupyter notebook`
-4.  Selecciona y ejecuta el archivo `proyecto_final_tripleten.ipynb`.
+4.  Selecciona y ejecuta el archivo `analisis basado en eventos.ipynb`.
 
 ---
 **Desarrollado por:** Johjan Danilo Mendivelso Espinosa
