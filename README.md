@@ -50,4 +50,4 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 ---
 **Desarrollado por:** Johjan Danilo Mendivelso Espinosa
-**Perfil de LinkedIn:** https://www.linkedin.com/help/linkedin/answer/a564064/tu-perfil-en-linkedin?lang=es
+**Perfil de LinkedIn:** https://www.linkedin.com/in/johjan-espinosa/
